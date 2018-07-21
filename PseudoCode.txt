@@ -1,0 +1,8 @@
+Pseudo Code:
+
+// Have one "image" component that is repeated 16x
+// Have each image be clickable one time
+// Click each image just once -- completely clicking each image one time you win
+// Click one image more than once and the game resets
+
+// 
